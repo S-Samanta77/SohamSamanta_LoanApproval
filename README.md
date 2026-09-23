@@ -151,6 +151,8 @@ PROJECT_FOLDER/
 ├── requirements.txt      # Python dependencies
 ├── readme.md             # This file
 └── SohamSamanta_ProjectReport.docx   # Formal project report
+
+See the Dataset Setup Section in this file to Setup the dataset before running the Application.
 ```
 
 ---
