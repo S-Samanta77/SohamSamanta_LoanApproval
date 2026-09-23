@@ -148,7 +148,6 @@ Open the URL shown in the terminal (typically `http://localhost:8501`) in your b
 ```
 PROJECT_FOLDER/
 ├── SohamSamanta_LoanApproval.py       # Complete application (single Python file)
-├── loan_data.csv         # Dataset (download from Kaggle)
 ├── requirements.txt      # Python dependencies
 ├── readme.md             # This file
 └── SohamSamanta_ProjectReport.docx   # Formal project report
